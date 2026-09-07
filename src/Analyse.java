@@ -1,5 +1,4 @@
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.*;;
 
 public class Analyse {
     public static void main(String[] args) {

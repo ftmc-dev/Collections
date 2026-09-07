@@ -89,7 +89,7 @@ public class Book {
                         book.category = newCategory;
                         book.price = newPrice;
                         listOfBooks.set(i, book);
-                        return;
+                        break;
                     }
                 }
 

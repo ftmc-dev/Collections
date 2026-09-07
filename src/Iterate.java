@@ -1,7 +1,5 @@
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.TreeSet;
 
 public class Iterate {
     public static void main(String[] args) {

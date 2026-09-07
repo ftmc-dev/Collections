@@ -1,9 +1,7 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import java.util.TreeSet;
 
 public class Order {
+
     public static void main(String[] args) {
 
         TreeSet<Person> student = new TreeSet<>();
